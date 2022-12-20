@@ -1,0 +1,19 @@
+﻿  FlappyBird.cpp
+C:\Local-Disk(D)\Code\CPP\FlappyBird\FlappyBird\FlappyBird.cpp(64,26): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Local-Disk(D)\Code\CPP\FlappyBird\FlappyBird\FlappyBird.cpp(64,19): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+FlappyBird.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+FlappyBird.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+FlappyBird.obj : error LNK2019: unresolved external symbol _glfwInitHint referenced in function _main
+FlappyBird.obj : error LNK2019: unresolved external symbol _glfwGetPrimaryMonitor referenced in function _main
+FlappyBird.obj : error LNK2019: unresolved external symbol _glfwGetVideoMode referenced in function _main
+FlappyBird.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+FlappyBird.obj : error LNK2019: unresolved external symbol _glfwDestroyWindow referenced in function _main
+FlappyBird.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+FlappyBird.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+FlappyBird.obj : error LNK2019: unresolved external symbol _glfwGetKey referenced in function "void __cdecl TakeInput(struct GLFWwindow *,float &,float &)" (?TakeInput@@YAXPAUGLFWwindow@@AAM1@Z)
+FlappyBird.obj : error LNK2019: unresolved external symbol _glfwGetCursorPos referenced in function _main
+FlappyBird.obj : error LNK2019: unresolved external symbol _glfwGetTime referenced in function _main
+FlappyBird.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+FlappyBird.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+C:\Local-Disk(D)\Code\CPP\FlappyBird\Dependencies\GLFW\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Local-Disk(D)\Code\CPP\FlappyBird\Debug\FlappyBird.exe : fatal error LNK1120: 14 unresolved externals

@@ -1,0 +1,4 @@
+﻿  FlappyBird.cpp
+C:\Local-Disk(D)\Code\CPP\FlappyBird\FlappyBird\FlappyBird.cpp(51,26): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Local-Disk(D)\Code\CPP\FlappyBird\FlappyBird\FlappyBird.cpp(51,19): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+  FlappyBird.vcxproj -> C:\Local-Disk(D)\Code\CPP\FlappyBird\x64\Debug\FlappyBird.exe
